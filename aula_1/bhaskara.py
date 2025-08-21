@@ -15,3 +15,4 @@ elif delta == 0:
     print(x1)
 else:
     print("Nao existem raizes reais")
+
